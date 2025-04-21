@@ -1,4 +1,6 @@
-![Screenshot 2025-03-28 091426](https://github.com/user-attachments/assets/4b43c3f4-f7b7-4f76-9ff2-157f98db9645)# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+### REGISTER NUMBER: 212223100025
+### NAME : G Lekasri
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
@@ -48,8 +50,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ### SLEUTH KIT:
-![](./images/sleuth.png)
-
+![image](https://github.com/user-attachments/assets/6ff0ffe5-f770-4f92-b4b9-0546ad34e840)
 
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
